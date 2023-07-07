@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mjollnir07
-- 👀 I’m interested in Frontend development & c++
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Frontend development & Backend Development
+- 🌱 I’m currently learning Java
 - 📫 How to reach me omkargho78@gmail.com
 
 <!---
