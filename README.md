@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mjollnir07
 - 👀 I’m interested in Frontend development & Backend Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently onto Java Spring boot and react js
 - 📫 How to reach me omkargho78@gmail.com
 
 <!---
